@@ -1,0 +1,413 @@
+[
+    {
+      "id": 47,
+      "component": "ImageForm",
+      "imageSrc": "/img/quizz/369-1518.jpg",
+      "question": "Quel perso et quel scene exactement ?",
+      "reponse":"Ace lors du combat vs Blackbeard, Ace se prend une attaque 'vortex' de Blackbeard. Ep 369 15min18"
+    },
+    {
+      "id": 2,
+      "component": "ImageForm",
+      "imageSrc": "/img/quizz/376-1919.jpg",
+      "question": "Quel scene exactement ?",
+      "reponse":"Fin the thriller bark, Kuma demande la tête de luffy, on voit la réaction de chaque membre en gros plan. Ep 376 19min19"
+    },
+    {
+        "id": 6,
+        "component": "TextSelectionForm",
+        "question": "Quel est le correct odre des primes de luffy jusqu'à Dressrosa ?",
+        "options": [
+            { "number": 1, "text": "30,000,000 -> 100,000,000 -> 200,000,000 -> 400,000,000 -> 600,000,000" },
+            { "number": 2, "text": "10,000,000 -> 100,000,000 -> 300,000,000 -> 400,000,000 -> 600,000,000" },
+            { "number": 3, "text": "10,000,000 -> 100,000,000 -> 200,000,000 -> 400,000,000 -> 500,000,000" },
+            { "number": 4, "text": "30,000,000 -> 100,000,000 -> 300,000,000 -> 400,000,000 -> 500,000,000" },
+            { "number": 5, "text": "10,000,000 -> 100,000,000 -> 300,000,000 -> 400,000,000 -> 600,000,000" },
+            { "number": 6, "text": "30,000,000 -> 100,000,000 -> 200,000,000 -> 400,000,000 -> 500,000,000" }
+        ],
+        "reponse":"30,000,000 -> 100,000,000 -> 300,000,000 -> 400,000,000 -> 500,000,000"
+    },
+    {
+        "id": 33,
+        "component": "ImageForm",
+        "imageSrc": "/img/quizz/489-1330.jpg",
+        "question": "Quel perso et quel scene exactement ?",
+        "reponse":"Boa qui ordonne aux navy de suivre le sous marin où luffy s'est escape. Ep 489 13min30"
+        },
+        {
+        "id": 34,
+        "component": "TextForm",
+        "question": "Quel est la liste des membres de l'équipage de BlackBeard quand il attaque Marineford ?",
+        "reponse":"Jesus Burgess, Shiryu, Van Augur, Lafitte , Doc Q, Sanjuan Wolf, Vasco Shot, Catarina Devon"
+        },
+        {
+            "id": 1,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/lucy.jpg",
+            "question": "Quel est le vainqueur de chaque bloc dans le tournoi du Colisée ?",
+            "reponse":"A: Jesus Burgess, B: Bartolomeo, C: Luffy, D: Rebecca"
+        }
+        ,
+        {
+            "id": 7,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/donquifamily.jpg",
+            "question": "Quel est le membre de la famille DonQuixote manquant sur cette image ?",
+            "reponse":"Jora (la veille là)"
+        },    
+        {
+        "id": 8,
+        "component": "MultiImageSelectionForm",
+        "question": "Lors de l'annonce de Doflamingo concernant les primes de son hunger game, quels sont les quatre persos ayant une prime de 300 000 000 berrys (la deuxième plus élevée après Usopp en gros) ?",
+        "images": [
+            { "number": 1, "src": "/img/quizz/choix1.jpg", "correct": true },
+            { "number": 2, "src": "/img/quizz/choix2.jpg", "correct": true },
+            { "number": 3, "src": "/img/quizz/choix3.jpg", "correct": true },
+            { "number": 4, "src": "/img/quizz/choix4.jpg", "correct": true },
+            { "number": 5, "src": "/img/quizz/choix5.jpg", "correct": true },
+            { "number": 6, "src": "/img/quizz/choix6.jpg", "correct": true },
+            { "number": 7, "src": "/img/quizz/choix7.jpg", "correct": true }
+        ],
+        "reponse":"Luffy,Riku,Law,Sabo"
+        },
+        {
+        "id": 50,
+        "component": "TextForm",
+        "question": "Y'a combien de niveau dans Impel Down ? (le premier niveau est celui de la forêt de lames, et on ne compte pas le niveau 'secret' d'Ivankov comme un niveau).",
+        "reponse":"6"
+        },
+        {
+            "id": 10,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/robintoy.jpg",
+            "question": "C'est quel mugiwara ?",
+            "reponse":"Robin"
+        },
+        {
+            "id": 35,
+            "component": "ImageTextSelectionForm",
+            "question": "C'est quel Mr. ?",
+            "imageSrc": "/img/quizz/mr7.jpg",
+            "options": [
+                { "number": 1, "text": "Mr. 7" },
+                { "number": 2, "text": "Mr. 6" },
+                { "number": 3, "text": "Mr. 8" }
+            ],
+            "reponse":"Mr. 7"
+        },
+        {
+            "id": 36,
+            "component": "TextForm",
+            "question": "Dans Alabasta, c'etait quoi le nom de Robin : Miss... ?",
+            "reponse":"Miss All Sunday"
+        },
+        {
+            "id": 13,
+            "component": "MultiTextSelectionForm",
+            "question": "Quel est le fruit de démon de Kuma ?",
+            "options": [
+              { "number": 1, "text": "Ito Ito no Mi" },
+              { "number": 2, "text": "Mero Mero no Mi" },
+              { "number": 3, "text": "Kage Kage no Mi" },
+              { "number": 4, "text": "Nikyu Nikyu no Mi" },
+              { "number": 5, "text": "Mera Mera no Mi" }
+            ],
+            "reponse":"Nikyu Nikyu no Mi"
+          },
+          {
+              "id": 14,
+              "component": "TextForm",
+              "question": "Cite 9 persos portant le 'D' dans leur nom que l'on connaît jusqu'à la fin de l'arc Dressrosa",
+              "reponse":"Monkey D. Luffy, Monkey D. Garp, Monkey D. Dragon, Gol D. Roger, Portgas D. Ace, Marshall D. Teach, Trafalgar D. Water Law, Portgas D. Rouge, Jaguar D. Saul"
+          },
+          {
+              "id": 15,
+              "component": "ImageForm",
+              "imageSrc": "/img/quizz/quelarc.jpg",
+              "question": "Franky a cette coiffure dans quel arc ?",
+              "reponse":"Dressrosa"
+          },          
+          {
+            "id": 16,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/krieg.jpg",
+            "question": "C'est le jelly roger de quel équipage ?",
+            "reponse":"Don Krieg"
+        },
+        {
+            "id": 48,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/usopjelly.jpg",
+            "question": "C'est le jelly roger de quel équipage ?",
+            "reponse":"L'Équipage du Capitaine Usopp (les 3 gosses là)"
+        },
+        {
+            "id": 18,
+            "component": "TextForm",
+            "question": "Ils s'appellent comment les 3 gosses de l'équipage d'Usopp",
+            "reponse":"Carotte, Oignon, Piment"
+        },
+        {
+            "id": 19,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/162-1449.jpg",
+            "question": "Quel perso et quel scene exactement ?",
+            "reponse":"Skypédia, le mec avec la lance essaye de brûler Going Merry"
+        },
+        {
+            "id": 49,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/jiantjack.jpg",
+            "question": "Ce truc s'appel comment ?",
+            "reponse":"Giant Jack"
+        },
+        {
+            "id": 21,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/rumbar.jpg",
+            "question": "C'est le bateau pirate de quel équipage ?",
+            "reponse":"Rumbar (l'équipage de Brook quand il était vivant)"
+        },
+        {
+            "id": 22,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/montblanc.jpg",
+            "question": "Il s'appel comment ?",
+            "reponse":"Norland Montblanc"
+        },
+        {
+            "id": 23,
+            "component": "TextForm",
+            "question": "Cite les arcs où des Poneglyphes ont été découvert par l'équipage de Luffy (jusqu'à la fin de Dressora)",
+            "reponse":"Alabasta, Skypiea, Île des Hommes-Poissons"
+        },
+        {
+            "id": 24,
+            "component": "TextSelectionForm",
+            "question": "Quel est le nom du peuple de Skypiea qui protège les ruines ?",
+            "options": [
+              { "number": 1, "text": "Shadias" },
+              { "number": 2, "text": "Shandias" },
+              { "number": 3, "text": "Shadras" },
+              { "number": 4, "text": "Shandrias" }
+            ],
+            "reponse":"Shandias"
+          },
+          {
+            "id": 45,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/quelmort.jpg",
+            "question": "C'est quel mort ?",
+            "reponse":"Professeur Clover, pendant le flashback de Robin"
+        },
+        {
+            "id": 26,
+            "component": "TextForm",
+            "question": "Quel phrase mémorable Teach dit à Luffy au bar à Mock Town ?",
+            "reponse":"Les rêves des gens ne finissent jamais !"
+        },
+        {
+            "id": 27,
+            "component": "TextForm",
+            "question": "Cite les 9 membres du CP9 dans l'arc Enies Lobby ?",
+            "reponse":"Spandam, Rob Lucci, Kaku, Kalifa, Blueno, Jyabura, Kumadori, Fukurou, Nero"
+        },
+        {
+            "id": 28,
+            "component": "ImageTextSelectionForm",
+            "question": "C'est quel vice-amiral ?",
+            "imageSrc": "/img/quizz/strawberry.jpg",
+            "options": [
+                { "number": 1, "text": "Onigumo" },
+                { "number": 2, "text": "Doberman" },
+                { "number": 3, "text": "Strawberry" },
+                { "number": 4, "text": "Yamakaji" },
+                { "number": 5, "text": "Momonga" }
+            ],
+            "reponse":"Strawberry"
+        },
+        {
+            "id": 46,
+            "component": "ImageTextSelectionForm",
+            "question": "C'est quel marine ?",
+            "imageSrc": "/img/quizz/jerry.jpg",
+            "options": [
+                { "number": 1, "text": "T Bone" },
+                { "number": 2, "text": "Jerry" },
+                { "number": 3, "text": "Wanze" }
+            ],
+            "reponse":"Jerry"
+        },
+        {
+            "id": 30,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/173-1653.jpg",
+            "question": "Quel arc, quel scene ?",
+            "reponse":"Skypedia, quand un Shandia attaque avec sa lance eneru, et qu'eneru éléctrifie sa lance. Ep 173 16min53"
+        },
+        {
+            "id": 31,
+            "component": "TextSelectionForm",
+            "question": "C'est quoi le nom de la drogue donné aux enfants dans punk hazard ?",
+            "options": [
+              { "number": 1, "text": "NHC10" },
+              { "number": 2, "text": "NHC05" },
+              { "number": 3, "text": "NHC07" },
+              { "number": 4, "text": "NHC01" },
+              { "number": 5, "text": "NHC09" }
+            ],
+            "reponse":"NHC10"
+          },
+          {
+            "id": 32,
+            "component": "ImageForm",
+            "imageSrc": "/img/quizz/sengoku.jpg",
+            "question": "C'est qui ?",
+            "reponse":"Sengoku"
+        },
+        {
+            "id": 4,
+            "component": "TextForm",
+            "question": "Qui a amputé Barbe Brune ?",
+            "reponse":"Basil Hawkins"
+        },
+        {
+            "id": 5,
+            "component": "TextForm",
+            "question": "À quel âge Ace rencontra Luffy ?",
+            "reponse":"10 ans"
+        },
+        {
+            "id": 11,
+            "component": "TextForm",
+            "question": "Quel fruit adore manger Enel ?",
+            "reponse":"Les pommes"
+        },
+        {
+            "id": 41,
+            "component": "TextForm",
+            "question": "Quel age avait luffy avant l'ellipse ?",
+            "reponse":"17 ans"
+        },
+        {
+            "id": 37,
+            "component": "TextForm",
+            "question": "Où Gold D Roger a t-il été executé ?",
+            "reponse":"Loguetown"
+        },
+        {
+            "id": 38,
+            "component": "TextSelectionForm",
+            "question": "Où est né Sanji ?",
+            "options": [
+              { "number": 1, "text": "North Blue" },
+              { "number": 2, "text": "East Blue" },
+              { "number": 3, "text": "West Blue" },
+              { "number": 4, "text": "South Blue" }
+            ],
+            "reponse":"North Blue"
+        },
+        {
+            "id": 39,
+            "component": "TextSelectionForm",
+            "question": "Combien de fois Zoro a perdu contre Kuina ?",
+            "options": [
+              { "number": 1, "text": "101" },
+              { "number": 2, "text": "201" },
+              { "number": 3, "text": "2001" },
+              { "number": 4, "text": "1001" }
+            ],
+            "reponse":"2001"
+          },
+          {
+            "id": 40,
+            "component": "ImageTextSelectionForm",
+            "question": "Perso filler ou pas ?",
+            "imageSrc": "/img/quizz/filleroupas.jpg",
+            "options": [
+                { "number": 1, "text": "Vrai" },
+                { "number": 2, "text": "Faux" }
+            ],
+            "reponse":"Faux"
+        },
+        {
+            "id": 12,
+            "component": "ImageTextSelectionForm",
+            "question": "Perso filler ou pas ?",
+            "imageSrc": "/img/quizz/filleroupas2.jpg",
+            "options": [
+                { "number": 1, "text": "Vrai" },
+                { "number": 2, "text": "Faux" }
+            ],
+            "reponse":"Vrai"
+        },
+        {
+            "id": 42,
+            "component": "TextForm",
+            "question": "Quel siège des pirates de Donquixote devait être celui de Law ?",
+            "reponse":"Coeur"
+        },
+        {
+            "id": 43,
+            "component": "TextSelectionForm",
+            "question": "Combien de membre de l'armée révolutionnaire était présent dans l'arc Dressrosa ?",
+            "options": [
+              { "number": 1, "text": "3" },
+              { "number": 2, "text": "4" },
+              { "number": 3, "text": "5" },
+              { "number": 4, "text": "6" }
+            ],
+            "reponse":"4 (Sabo, Hack, Karasu, Koala)"
+        },
+        {
+            "id": 44,
+            "component": "AudioForm",
+            "question": "C'est le rire de quel perso ?",
+            "audioSrc": "/audio/cesar_clown_laugh.mp3",
+            "reponse":"Cesar Clown"
+        },
+        {
+            "id": 25,
+            "component": "AudioForm",
+            "question": "C'est le rire de quel perso ?",
+            "audioSrc": "/audio/peronas_laugh.mp3",
+            "reponse":"Peronas"
+        },
+        {
+            "id": 29,
+            "component": "AudioForm",
+            "question": "C'est le rire de quel perso ?",
+            "audioSrc": "/audio/kid_laugh.mp3",
+            "reponse":"Kid"
+        },
+        {
+            "id": 3,
+            "component": "AudioForm",
+            "question": "C'est le rire de quel perso ?",
+            "audioSrc": "/audio/crocodile_mugiwara.mp3",
+            "reponse":"Crocodile"
+        },        
+        {
+            "id": 17,
+            "component": "AudioForm",
+            "question": "C'est le rire de quel perso ?",
+            "audioSrc": "/audio/hogback_laugh.mp3",
+            "reponse":"Hogback"
+        },
+        {
+            "id": 20,
+            "component": "AudioForm",
+            "question": "C'est quel attaque ?",
+            "audioSrc": "/audio/kumalazer.mp3",
+            "reponse":"Lazer de Kuma"
+        },
+        {
+            "id": 9,
+            "component": "AudioForm",
+            "question": "Complète les deux mots qui finisse l'audio",
+            "audioSrc": "/audio/benbeckman.mp3",
+            "reponse":"Ben Beckman"
+        }
+]
+
+
